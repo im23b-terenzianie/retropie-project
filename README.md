@@ -31,7 +31,7 @@ retropie-project/
 ### 1. Projekt klonen
 
 ```bash
-git clone git@github.com:DEIN-BENUTZERNAME/retropie-project.git
+git clone git@github.com:im23b-terenzianie/retropie-project.git
 cd retropie-project
 ```
 
